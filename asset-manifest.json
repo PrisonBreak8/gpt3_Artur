@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gpt3_Artur/static/css/main.8b33fc62.css",
-    "main.js": "/gpt3_Artur/static/js/main.69c16301.js",
+    "main.css": "/gpt3_Artur/static/css/main.d3a64bee.css",
+    "main.js": "/gpt3_Artur/static/js/main.c2d8a2bf.js",
     "static/media/ai.png": "/gpt3_Artur/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/people.png": "/gpt3_Artur/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/gpt3_Artur/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/gpt3_Artur/index.html",
-    "main.8b33fc62.css.map": "/gpt3_Artur/static/css/main.8b33fc62.css.map",
-    "main.69c16301.js.map": "/gpt3_Artur/static/js/main.69c16301.js.map"
+    "main.d3a64bee.css.map": "/gpt3_Artur/static/css/main.d3a64bee.css.map",
+    "main.c2d8a2bf.js.map": "/gpt3_Artur/static/js/main.c2d8a2bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b33fc62.css",
-    "static/js/main.69c16301.js"
+    "static/css/main.d3a64bee.css",
+    "static/js/main.c2d8a2bf.js"
   ]
 }
